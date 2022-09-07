@@ -1,6 +1,6 @@
-## Getting Started
+## Java - Selenium - Page Object Pattern Base Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Base Project for Selenium example using TestNG and Java.
 
 ## Folder Structure
 
